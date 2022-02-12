@@ -1,18 +1,8 @@
-# OpenLayers + Vite
+# Wildfire tracker
+Description: website showing current wildfires.<br>
+Realized with: JavaScript.<br>
+API connected: OpenLayers, NASA EONET.<br>
+Preview:<br>
 
-This example demonstrates how the `ol` package can be used with [Vite](https://vitejs.dev/).
-
-To get started, run the following (requires Node 12+):
-
-    npx create-ol-app my-app --template vite
-
-Then change into your new `my-app` directory and start a development server (available at http://localhost:3000):
-
-    cd my-app
-    npm start
-
-To generate a build ready for production:
-
-    npm run build
-
-Then deploy the contents of the `dist` directory to your server.  You can also run `npm run serve` to serve the results of the `dist` directory for preview.
+![Screenshot](https://user-images.githubusercontent.com/99021992/153687701-9a226bab-d2a4-458c-ace0-dbd355e8df4f.png)
+![Screenshot](https://user-images.githubusercontent.com/99021992/153687740-b510615c-9c98-4048-ac65-3da31cbf875f.png)
