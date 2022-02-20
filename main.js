@@ -36,7 +36,6 @@ const getPoints = () => {
         const wildfireSource = new VectorSource({
             features: wildfireArray
         });
-        //
         const wildfireLayer = new VectorLayer({
             source: wildfireSource,
             style: new Style({
